@@ -42,7 +42,7 @@ Actualmente estoy trabajando en proyectos donde exploro el diseño, la estructur
 <a href="https://kbronrrik.github.io/Dise-os/">
   <img src="https://img.shields.io/badge/ABRIR%20PROYECTO-75E84A?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Game Design Archive" />
 </a>
-<a href="https://github.com/ErikPardo06/Dise-os">
+<a href="https://github.com/KbrOnrriK/Dise-os">
   <img src="https://img.shields.io/badge/VER%20REPOSITORIO-17234B?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
 </a>
 
