@@ -40,10 +40,7 @@ Actualmente estoy trabajando en proyectos donde exploro el diseño, la estructur
 **Una biblioteca visual para organizar y documentar recursos de diseño de videojuegos.**
 
 <a href="https://erikpardo06.github.io/Dise-os/">
-  <img src="https://img.shields.io/badge/ABRIR%20PROYECTO-75E84A?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Game Design Archive" />
-</a>
-<a href="https://github.com/ErikPardo06/Dise-os">
-  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-17234B?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+  <img src="https://img.shields.io/badge/ABRIR%20GAME%20DESIGN%20ARCHIVE-75E84A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la página de Game Design Archive" />
 </a>
 
 </div>
